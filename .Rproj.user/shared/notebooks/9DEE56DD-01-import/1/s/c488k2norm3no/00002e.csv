@@ -1,0 +1,6 @@
+"0","ev_plot <- ggplot(fb_yearly_merged, aes(x = year, y = mean_ev)) + geom_point() +"
+"0","  geom_line() + ylim(102,104) +"
+"0","  scale_x_continuous(breaks = c(2015,2016,2017,2018,2019,2020,2021)) +"
+"0","  labs(title = ""Average Exit Velocity of Fly Balls Hit Over 375 ft"", subtitle = ""Despite the league average exit velocity increasing in 2021, fly balls hit over 375 feet \nflew an average of 1-2 feet shorter. The attempt to slightly deaden the ball worked."", y = ""Avg. Exit Velocity (MPH)"", x = ""Year"", caption = ""By Bryan Baker\nSource: baseballsavant.com"") + theme_bw()"
+"0",""
+"0","ev_plot"

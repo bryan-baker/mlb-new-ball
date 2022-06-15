@@ -1,0 +1,140 @@
+"0","fb_2015 <- read_csv(""2015_fb_375.csv"")"
+"1","[38;5;232mNew names:
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...8`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...42`[38;5;232m
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...60`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...61`[38;5;232m[39m
+"
+"1","[1mRows: [22m[34m3776[39m [1mColumns: [22m[34m92[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m───────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (17): pitch_type, player_name, events, description, des, game_type, stand,...
+[32mdbl[39m  (66): release_speed, release_pos_x, release_pos_z, batter, pitcher...8, zo...
+[33mlgl[39m   (8): spin_dir, spin_rate_deprecated, break_angle_deprecated, break_length...
+[34mdate[39m  (1): game_date
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","fb_2016 <- read_csv(""2016_fb_375.csv"")"
+"1","[38;5;232mNew names:
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...8`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...42`[38;5;232m
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...60`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...61`[38;5;232m[39m
+"
+"1","[1mRows: [22m[34m4935[39m [1mColumns: [22m[34m92[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m───────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (17): pitch_type, player_name, events, description, des, game_type, stand,...
+[32mdbl[39m  (67): release_speed, release_pos_x, release_pos_z, batter, pitcher...8, zo...
+[33mlgl[39m   (7): spin_dir, spin_rate_deprecated, break_angle_deprecated, break_length...
+[34mdate[39m  (1): game_date
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","fb_2017 <- read_csv(""2017_fb_375.csv"")"
+"1","[38;5;232mNew names:
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...8`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...42`[38;5;232m
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...60`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...61`[38;5;232m[39m
+"
+"1","[1mRows: [22m[34m6171[39m [1mColumns: [22m[34m92[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m───────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (16): pitch_type, player_name, events, description, des, game_type, stand,...
+[32mdbl[39m  (67): release_speed, release_pos_x, release_pos_z, batter, pitcher...8, zo...
+[33mlgl[39m   (8): spin_dir, spin_rate_deprecated, break_angle_deprecated, break_length...
+[34mdate[39m  (1): game_date
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","fb_2018 <- read_csv(""2018_fb_375.csv"")"
+"1","[38;5;232mNew names:
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...8`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...42`[38;5;232m
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...60`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...61`[38;5;232m[39m
+"
+"1","[1mRows: [22m[34m5987[39m [1mColumns: [22m[34m92[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m───────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (16): pitch_type, player_name, events, description, des, game_type, stand,...
+[32mdbl[39m  (67): release_speed, release_pos_x, release_pos_z, batter, pitcher...8, zo...
+[33mlgl[39m   (8): spin_dir, spin_rate_deprecated, break_angle_deprecated, break_length...
+[34mdate[39m  (1): game_date
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","fb_2019 <- read_csv(""2019_fb_375.csv"")"
+"1","[38;5;232mNew names:
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...8`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...42`[38;5;232m
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...60`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...61`[38;5;232m[39m
+"
+"1","[1mRows: [22m[34m7013[39m [1mColumns: [22m[34m92[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m───────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (16): pitch_type, player_name, events, description, des, game_type, stand,...
+[32mdbl[39m  (67): release_speed, release_pos_x, release_pos_z, batter, pitcher...8, zo...
+[33mlgl[39m   (8): spin_dir, spin_rate_deprecated, break_angle_deprecated, break_length...
+[34mdate[39m  (1): game_date
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","fb_2020 <- read_csv(""2020_fb_375.csv"")"
+"1","[38;5;232mNew names:
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...8`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...42`[38;5;232m
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...60`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...61`[38;5;232m[39m
+"
+"1","[1mRows: [22m[34m2368[39m [1mColumns: [22m[34m92[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m───────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (16): pitch_type, player_name, events, description, des, game_type, stand,...
+[32mdbl[39m  (67): release_speed, release_pos_x, release_pos_z, batter, pitcher...8, zo...
+[33mlgl[39m   (8): spin_dir, spin_rate_deprecated, break_angle_deprecated, break_length...
+[34mdate[39m  (1): game_date
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","fb_2021 <- read_csv(""2021_fb_375.csv"")"
+"1","[38;5;232mNew names:
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...8`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...42`[38;5;232m
+[36m•[38;5;232m [38;5;232m`pitcher`[38;5;232m -> [38;5;232m`pitcher...60`[38;5;232m
+[36m•[38;5;232m [38;5;232m`fielder_2`[38;5;232m -> [38;5;232m`fielder_2...61`[38;5;232m[39m
+"
+"1","[1mRows: [22m[34m6902[39m [1mColumns: [22m[34m92[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m───────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (16): pitch_type, player_name, events, description, des, game_type, stand,...
+[32mdbl[39m  (67): release_speed, release_pos_x, release_pos_z, batter, pitcher...8, zo...
+[33mlgl[39m   (8): spin_dir, spin_rate_deprecated, break_angle_deprecated, break_length...
+[34mdate[39m  (1): game_date
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"

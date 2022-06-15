@@ -1,0 +1,5 @@
+"0","year <- c(2015)"
+"0",""
+"0","fb_2015_clean$year <- year"
+"0",""
+"0","fb_2015_avg <- fb_2015_clean %>% group_by(year) %>% summarise(mean_distance = mean(fb_2015_clean$distance), mean_ev = mean(fb_2015_clean$exit_velocity), mean_la = mean(fb_2015_clean$launch_angle))"

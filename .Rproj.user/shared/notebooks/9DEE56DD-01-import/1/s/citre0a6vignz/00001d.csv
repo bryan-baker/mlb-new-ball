@@ -1,0 +1,2 @@
+"0","new_ball_clean %>% group_by(outcome) %>% "
+"0","  summarize(number =n()) "

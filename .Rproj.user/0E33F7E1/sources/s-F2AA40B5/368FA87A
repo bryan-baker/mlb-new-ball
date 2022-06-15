@@ -1,0 +1,27 @@
+{
+    "id": "368FA87A",
+    "path": "~/Desktop/rwd/baker-new-ball/01-import.Rmd",
+    "project_path": "01-import.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1651262845263.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "213,6",
+        "scrollLine": "213"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1655312591,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1655312591378,
+    "read_only": false,
+    "read_only_alternatives": []
+}
